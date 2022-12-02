@@ -11,7 +11,7 @@ const USER_CONFIG = {
   APP_ID: 'wxa0fc0c67ed74ad65',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '3q-FKQvmY_04TJBk2MwaL-rY2yKQS4YydyGVyM84wdU',
+  APP_SECRET: '41c0f545b6acd02a0fe176d296be5ee2',
 
   PROVINCE: '广东',
   CITY: '惠州',
@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ol0r56RMHxExGa17waAZsDFm_hY4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'sO1UgapLU5KG9Tce8oLcFEhTe5vxgGTYS-JBk2or4_g',
+      useTemplateId: '3q-FKQvmY_04TJBk2MwaL-rY2yKQS4YydyGVyM84wdU',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '01-14',
       festivals: [
