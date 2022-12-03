@@ -26,9 +26,8 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      {{earthy_love_words.DATA}}  
-                                —— { 爱你的鸭鸭 }
-      
+      {{earthy_love_words.DATA}}     —— 爱你的鸭鸭 
+                               
     `
   },
   {
